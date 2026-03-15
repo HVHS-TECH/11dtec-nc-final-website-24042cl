@@ -8,3 +8,9 @@ html, body{
     margin: 20px;
     padding: 20px;
 }
+#myheader {
+    background-color: rgb(26, 50, 78);
+    color: rgb(255, 253, 235);
+    padding: 20px;
+    text-align: center;
+}

@@ -3,8 +3,8 @@ html, body{
 }
 .test{
     background-color: rgb(255, 253, 235);
-    color: black;
-    border: 2px solid black;
+    color: rgb(26, 50, 78);
+    border: 2px solid rgb(26, 50, 78);
     margin: 20px;
     padding: 20px;
 }
